@@ -9,8 +9,10 @@ namespace JeuDeDés
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Voici un jeu de dés");
+
+        {   //Créer un dé
+            Dé monDé1 = new Dé();
+            Dé monDé2 = new Dé();
         }
     }
 }
