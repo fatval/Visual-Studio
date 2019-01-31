@@ -10,6 +10,7 @@ namespace JeuDeDés
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Voici un jeu de dés");
         }
     }
 }
